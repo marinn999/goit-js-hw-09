@@ -99,3 +99,7 @@ a {
 .feedback-form button:focus {
   background-color: #6C8CFF;;
 }
+
+body.dark {
+  background-color: black;
+}
